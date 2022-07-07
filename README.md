@@ -1,6 +1,6 @@
 # morrer-ou-morrer
 voce morreu jogador
- para copiar o codico em html
+ tente copiar o codico em HTML
  ´´´
  <html>
   <h1>Meu primeiro arquivo HTML :smiley:</h1>
